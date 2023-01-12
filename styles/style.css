@@ -47,7 +47,6 @@
   z-index: 1;
   top: 30px;
   left: 64px;
-  color: black;
 }
 
 .header__title {
@@ -308,7 +307,7 @@
 }
 
 .logo_place_footer {
-  color:white;
+
 }
 
 .footer__author {
